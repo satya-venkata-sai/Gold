@@ -12,3 +12,6 @@ went throug  youtube videos to learn fast api and backend principles youTUbe cha
 only basics i saw so much content is there to watch 
 Done for day 3 if i got time i wil try to learn something new 
 <br>
+Day 4
+<br>
+pytorch setup done basic in python
