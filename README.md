@@ -15,3 +15,7 @@ Done for day 3 if i got time i wil try to learn something new
 Day 4
 <br>
 pytorch setup done basic in python
+<br>
+Day 5 
+<br>
+Not yet started but i will start creating file structure add try to create one api
