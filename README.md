@@ -19,3 +19,10 @@ pytorch setup done basic in python
 Day 5 
 <br>
 Not yet started but i will start creating file structure add try to create one api
+Day 6
+<br>
+data enginerring  advanced SQL 
+===> Understand ordinary and recursive CTE's
+compare ctes , derived tables and subQueries
+practice correlated and non - correlated subqueries
+<br> 
