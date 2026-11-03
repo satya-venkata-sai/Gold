@@ -26,3 +26,6 @@ data enginerring  advanced SQL
 compare ctes , derived tables and subQueries
 practice correlated and non - correlated subqueries
 <br> 
+Day 7
+<br>
+Grasping knowledge on SQL 
