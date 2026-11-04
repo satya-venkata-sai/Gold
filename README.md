@@ -29,3 +29,7 @@ practice correlated and non - correlated subqueries
 Day 7
 <br>
 Grasping knowledge on SQL 
+<br>
+Day 8
+<br>
+Window functions Row number and rank
