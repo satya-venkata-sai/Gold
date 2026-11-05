@@ -33,3 +33,9 @@ Grasping knowledge on SQL
 Day 8
 <br>
 Window functions Row number and rank
+<br>
+Day 9
+Yesterday practiced windo functions syntax row_number() rank() dens_rank() Over(order by desc) partition by wnet through all this and lag and lead and pracitced in sql 
+
+Today going to practice joins and aggregations 
+<br>
