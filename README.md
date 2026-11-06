@@ -39,3 +39,6 @@ Yesterday practiced windo functions syntax row_number() rank() dens_rank() Over(
 
 Today going to practice joins and aggregations 
 <br>
+Day 10
+<br>
+pracitced joins and done problem in leet code about joins
